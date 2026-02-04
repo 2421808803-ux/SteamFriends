@@ -17,7 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/196f3eae7a4fbc77d6f77d5053a28538140a52a7.jpg) | 啥考试的       | [76561199688420041](https://steamcommunity.com/profiles/76561199688420041/) | ✅           | 2026-01-24 05:45:38 |                |          |
+| ![](https://avatars.steamstatic.com/c7da5cfd8f9d6be645c053983d3da154bb21eeb8.jpg) | 啥考试的       | [76561199688420041](https://steamcommunity.com/profiles/76561199688420041/) | ✅           | 2026-01-24 05:45:38 |                |          |
 | ![](https://avatars.steamstatic.com/a3052b7b3d76e1ccf75ed8d71ec908ca55ab4fec.jpg) | 提着昨日种种千辛万苦 | [76561198320355295](https://steamcommunity.com/profiles/76561198320355295/) | ✅           | 2023-03-25 11:21:11 |                |          |
 | ![](https://avatars.steamstatic.com/f9946355a632a6d01ebb46f49cab223464f441fe.jpg) | 南舟         | [76561198789025066](https://steamcommunity.com/profiles/76561198789025066/) | ✅           | 2025-09-13 14:09:52 |                |          |
 | ![](https://avatars.steamstatic.com/0a6bc87885d8c5e8231c19ccac7ddb4b8f4331b3.jpg) | 志仓         | [76561198956998155](https://steamcommunity.com/profiles/76561198956998155/) | ✅           | 2025-01-31 02:33:04 |                |          |
